@@ -1,4 +1,9 @@
 # 🛍️ Plantilla Landing + Catálogo Digital
+![PHP](https://img.shields.io/badge/PHP-7.4+-777BB4?style=flat&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![License](https://img.shields.io/badge/license-MIT-green)
 
 Plantilla web profesional para pequeños negocios: catálogo de productos con pedidos directos a WhatsApp.
 
