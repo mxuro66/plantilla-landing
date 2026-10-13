@@ -33,9 +33,6 @@ Edita el inicio de `index.php`:
 2. **`$PRODUCTOS`** → tu catálogo (nombre, precio, imagen)
 3. **`$COLORES`** → paleta del cliente
 
-## 📸 Capturas
-
-*(Aquí puedes subir una imagen de tu captura de pantalla)*
 
 ## 📄 Licencia
 
@@ -43,4 +40,4 @@ MIT — libre para uso comercial y personal.
 
 ## 👤 Autor
 
-**Mauricio Rafael** ([@muxro66](https://github.com/muxro66))
+**Mauricio Luna** ([@muxro66](https://github.com/muxro66))
